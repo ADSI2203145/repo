@@ -14,3 +14,4 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
+HOLA YEILY
